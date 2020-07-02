@@ -17,13 +17,19 @@ pyHasher 설명서를 참고하십시요.설명서는 Release 버전과 함께 �
 
 # 라이센스
 
-본 프로그램은 저작권자의 승인 없이 상업적 목적으로 사용할 수 없습니다. 본 프로그램의 저작권은 저작권자에게 있습니다.
+본 프로그램은 저작권자의 승인 없이 상업적 목적으로 사용할 수 없습니다.
+본 프로그램의 저작권은 저작권자에게 있습니다.
 
 이 프로그램에서 사용된
-* **python**은 https://www.python.org에서 공개된 소스를 사용하였으며 **Python Software Foundation License**를 따릅니다. 
-* **wxpython**은 https://www.wxpython.org에서 공개된 소스를 사용하였으며 **wxWindows Library Licence**를 따릅니다. 
-* **pyinstaller**은 https:/pyinstaller.org에서 공개된 소스를 사용하였으며 **GPL License**를 따릅니다. 
-* **XlsxWriter**은 https://pypi.org/project/XlsxWriter/에서 공개된 소스를 사용하였으며 **BSD License**를 따릅니다. 
-* **reportlab**은 https://reportlab.com/에서 공개된 소스를 사용하였으며 **BSD License**를 따릅니다. 
-* **pypdf2**은 https://github.com/mstamy2/PyPDF2/에서 공개된 소스를 사용하였으며 **https://github.com/mstamy2/PyPDF2/blob/master/LICENSE**를 따릅니다.
+* **python**은 https://www.python.org 에서 공개된 소스를 사용하였으며 **Python Software Foundation License**를 따릅니다. 
+* **wxpython**은 https://www.wxpython.org 에서 공개된 소스를 사용하였으며 **wxWindows Library Licence**를 따릅니다. 
+* **pyinstaller**은 https:/pyinstaller.org 에서 공개된 소스를 사용하였으며 **GPL License**를 따릅니다. 
+* **XlsxWriter**은 https://pypi.org/project/XlsxWriter/ 에서 공개된 소스를 사용하였으며 **BSD License**를 따릅니다. 
+* **reportlab**은 https://reportlab.com/ 에서 공개된 소스를 사용하였으며 **BSD License**를 따릅니다. 
+* **pypdf2**은 https://github.com/mstamy2/PyPDF2/ 에서 공개된 소스를 사용하였으며 **https://github.com/mstamy2/PyPDF2/blob/master/LICENSE** 를 따릅니다.
+
+# 피드백
+
+이슈 게시판 또는 이메일(jdji at paran.com)을 통하여 도구 개선점/기능 개선 제안해주세요!
+
 
