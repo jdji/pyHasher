@@ -24,7 +24,7 @@ pyHasher는 python(3.x) 기반으로 만들어진 파일에 대한 해시값 생
 이 프로그램에서 사용된
 * **python**은 https://www.python.org 에서 공개된 소스를 사용하였으며 **Python Software Foundation License**를 따릅니다. 
 * **wxpython**은 https://www.wxpython.org 에서 공개된 소스를 사용하였으며 **wxWindows Library Licence**를 따릅니다. 
-* **pyinstaller**은 https:/pyinstaller.org 에서 공개된 소스를 사용하였으며 **GPL License**를 따릅니다. 
+* **pyinstaller**은 https://pyinstaller.org 에서 공개된 소스를 사용하였으며 **GPL License**를 따릅니다. 
 * **XlsxWriter**은 https://pypi.org/project/XlsxWriter/ 에서 공개된 소스를 사용하였으며 **BSD License**를 따릅니다. 
 * **reportlab**은 https://reportlab.com/ 에서 공개된 소스를 사용하였으며 **BSD License**를 따릅니다. 
 * **pypdf2**은 https://github.com/mstamy2/PyPDF2/ 에서 공개된 소스를 사용하였으며 **https://github.com/mstamy2/PyPDF2/blob/master/LICENSE** 를 따릅니다.
